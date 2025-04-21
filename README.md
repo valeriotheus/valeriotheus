@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus
 ### Enjoy the view, a little empty (i know), but that's ok, after all i'm just a student ;)
-### Learning HTML, CSS, JavaScript and Python.
+### Learning HTML, CSS, JavaScript and Python
 
 <!--
 **valeriotheus/valeriotheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
