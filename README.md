@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Matheus
+### Hi there, I'm Matheus
 ### Enjoy the view, a little empty (i know), but that's ok, after all i'm just a student ;)
 ### Learning HTML, CSS, JavaScript and Python.
 
