@@ -2,6 +2,8 @@
 ### Enjoy the view, a little empty (i know), but that's ok, after all i'm just a student ;)
 ### Learning HTML, CSS, JavaScript and Python
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <i class="devicon-html5-plain colored" width="30" height="30"></i> <i class="devicon-css3-plain colored" width="30" height="30"></i> <i class="devicon-javascript-plain colored" width="30" height="30"></i> <i class="devicon-python-plain colored" width="30" height="30"></i>
 
 <i class="devicon-python-plain colored"></i>
