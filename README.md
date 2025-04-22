@@ -9,13 +9,6 @@
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-python-plain colored"></i>
 
-<style>
-  i {
-    font-size: 30px;
-    margin-right: 10px;
-  }
-</style>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars) <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
 
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
