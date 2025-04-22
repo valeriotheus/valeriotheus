@@ -4,11 +4,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 
-<div>
 <a href="https://github.com/valeriotheus">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=valeriotheus&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-</div>
-
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
+          
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
