@@ -4,7 +4,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&theme=prussian&height="150em")](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&theme=prussian&height="170em")](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&show=reviews,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&hide=contribs,prs)
