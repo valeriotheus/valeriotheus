@@ -6,8 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars) <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&show=reviews,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&hide=contribs,prs) <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
           
 
