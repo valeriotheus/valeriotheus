@@ -4,6 +4,15 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 
+<style>
+prussian: {
+    title_color: "bddfff",
+    icon_color: "38a0ff",
+    text_color: "6e93b5",
+    bg_color: "172f45",
+  },
+</style>
+
 <div>
 <a href="https://github.com/valeriotheus">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=valeriotheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
