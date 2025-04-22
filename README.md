@@ -4,6 +4,8 @@
 
 <i class="devicon-html5-plain colored" width="30" height="30"></i> <i class="devicon-css3-plain colored" width="30" height="30"></i> <i class="devicon-javascript-plain colored" width="30" height="30"></i> <i class="devicon-python-plain colored" width="30" height="30"></i>
 
+<i class="devicon-python-plain colored"></i>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars) <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
 
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
