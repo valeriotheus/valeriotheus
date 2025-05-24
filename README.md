@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Matheus
 ### Always trying to be better and better ;)
 
-## Skills & Technologies I'm Learning:
+---
+
+## 📖Learning:
 
 **Front-End Development**
 <div>
@@ -14,13 +16,15 @@
 
 **Back-End & Programming**
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" />
 </div>
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars) <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
+
+---
 
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
           
