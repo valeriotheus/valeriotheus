@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Matheus
-### Enjoy the view, a little empty (i know), but that's ok, after all i'm just a student ;)
+### Always trying to be better and better ;)
 ### Learning HTML, CSS, JavaScript and Python
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
