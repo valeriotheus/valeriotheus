@@ -28,10 +28,4 @@ Back-End & Programming:
 
 ### You can also contact me on 🌐:
 
-<a href="https://www.instagram.com/valeriotheus/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:valeriomathus@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:valeriomathus@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/valeriotheus/)
