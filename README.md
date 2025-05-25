@@ -26,7 +26,7 @@ Back-End & Programming:
 
 ---
 
-### You can also find me on 🌐:
+### You can also contact me on 🌐:
 
 <a href="https://www.instagram.com/valeriotheus/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
