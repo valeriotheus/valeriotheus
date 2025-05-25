@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Matheus
-### Always trying to be better and better ;)
+### Student in System Development Technician Program (2/3)
 
 ---
 
