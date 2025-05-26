@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Matheus
+Always trying to be better and better ;)
+<br>
 Student in System Development Technician Program (2/3)
 
 ### Learning 📖:
