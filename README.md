@@ -26,4 +26,4 @@ Front-End, Back-End & Programming:
 
 ### You can also contact me on 🌐:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white)](https://www.linkedin.com/in/matheus-soares-valerio/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logoColor=white)](mailto:valeriomathus@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logoColor=white)](https://www.instagram.com/valeriotheus/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logoColor=white)](https://www.instagram.com/valeriotheus/)
