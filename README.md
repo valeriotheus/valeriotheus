@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Matheus
-Always trying to be better and better ;)
+Always trying to learn more and more ;)
 <br>
-Student in System Development Technician Program (2/3)
+ETEC Student in System Development Technician Program (2/3)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&rounded=true)](https://www.instagram.com/valeriotheus/)
 
 ### Learning 📖:
 
@@ -11,9 +13,10 @@ Front-End, Back-End & Programming:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" />
 </div>
 
 &nbsp;
@@ -21,9 +24,3 @@ Front-End, Back-End & Programming:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriotheus&theme=prussian&hide=stars) <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriotheus&layout=compact&langs_count=7&theme=prussian"/>
 
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### You can also contact me on 🌐:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logoColor=white)](https://www.instagram.com/valeriotheus/)
