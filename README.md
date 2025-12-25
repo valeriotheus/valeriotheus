@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Matheus
 Always trying to learn more and more ;)
 <br>
-ETEC Student in System Development Technician Program (2/3)
+ETEC Student in System Development Technician Program (3/3)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&rounded=true)](https://www.instagram.com/valeriotheus/)
 
