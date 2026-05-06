@@ -4,7 +4,7 @@ Always trying to learn more and more ;)
 <br>
 ETEC Student in System Development Technician Program (3/3)
 
-### 🧠 Tech Stack (Learning & Using)
+#### 🧠 Tech Stack (Learning & Using)
 
 #### Front-end
 <div>
@@ -22,10 +22,10 @@ ETEC Student in System Development Technician Program (3/3)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
 </div>
 
-### 📊 GitHub Activity
+#### 📊 GitHub Activity
 
 ![Snake animation](https://github.com/valeriotheus/valeriotheus/blob/output/github-contribution-grid-snake.svg)
 
-### 📫 Connect with me
+#### 📫 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/valeriotheus/)
