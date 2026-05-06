@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Matheus
+### Hi there 👋, I'm Matheus
 
 Always trying to learn more and more ;)
 <br>
